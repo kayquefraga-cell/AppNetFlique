@@ -1,0 +1,26 @@
+{
+    "Filmes": [
+        {
+            "titulo": "Inception",
+            "ano": 2010,
+            "genero": "Sci-Fi",
+            "diretor": "Christopher Nolan",
+            "avaliacao": 8.8
+        },
+        {
+            "titulo": "The Godfather",
+            "ano": 1972,
+            "genero": "Crime",
+            "diretor": "Francis Ford Coppola",
+            "avaliacao": 9.2
+        },
+        {
+            "titulo": "Pulp Fiction",
+            "ano": 1994,
+            "genero": "Crime",
+            "diretor": "Quentin Tarantino",
+            "avaliacao": 8.9
+        }
+
+    ]
+}
